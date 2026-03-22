@@ -68,20 +68,6 @@ Lock aspect ratio toggle available in Custom mode.
 
 ---
 
-## Hosting
-
-This is a single `.html` file with no dependencies to install. Just open it in a browser or host it anywhere:
-
-| Platform | How |
-|----------|-----|
-| **Netlify** | Drag and drop the file at netlify.com/drop |
-| **GitHub Pages** | Push to a repo, enable Pages in Settings |
-| **Vercel** | Import the file via vercel.com |
-| **Cloudflare Pages** | Upload via the Cloudflare dashboard |
-| **Tiiny.host** | Drop the file at tiiny.host for an instant link |
-
----
-
 ## Technical Details
 
 | Property | Value |
@@ -117,7 +103,7 @@ No data ever leaves your device. Images are processed entirely in the browser us
 
 - HEIC files may not load in Firefox (limited browser support for HEIC)
 - Transparent backgrounds export as PNG only (JPG does not support transparency)
-- Very large images (50MP+) may be slow to process depending on your device
+- Very large images (50MP+) may be slow to process
 
 ---
 
